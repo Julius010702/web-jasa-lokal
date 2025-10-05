@@ -44,7 +44,7 @@ Beberapa fitur utama sudah berjalan, namun masih ada bagian yang perlu disempurn
 
 ## 👨‍💻 Pembuat
 **Julius Djami**  
-Mahasiswa Teknologi Informasi  
+Mahasiswa Teknik Informatika  
 📍 Kupang, Nusa Tenggara Timur, Indonesia  
 📧 [juliusbungadjami@gmail.com](mailto:juliusbungadjami@gmail.com)
 
