@@ -78,10 +78,3 @@ jasa_lokal/
 ![Halaman Login](https://raw.githubusercontent.com/Julius010702/web-jasa-lokal/main/screenshot2.png)
 ![Dashboard](https://raw.githubusercontent.com/Julius010702/web-jasa-lokal/main/screenshot3.png)
 
-## 📞 Kontak
-
-👤 Julius  
-📧 Email: julius.dev@example.com  
-💼 LinkedIn: [linkedin.com/in/julius010702](https://linkedin.com/in/julius010702)  
-🐙 GitHub: [github.com/Julius010702](https://github.com/Julius010702)
-
