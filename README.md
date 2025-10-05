@@ -53,3 +53,35 @@ Mahasiswa Teknologi Informasi
 ## 📜 Lisensi
 Proyek ini dilindungi oleh lisensi **MIT License**.  
 Kamu bebas menggunakan dan memodifikasi kode ini selama mencantumkan kredit kepada pembuat.
+## 🗂️ Struktur Folder
+
+jasa_lokal/
+├── config/
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+├── admin/
+├── user/
+├── index.php
+├── login.php
+├── register.php
+└── dashboard.php
+## 🚀 Cara Menjalankan Proyek
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/Julius010702/web-jasa-lokal.git
+## 🖼️ Tampilan Website
+
+![Halaman Utama](https://raw.githubusercontent.com/Julius010702/web-jasa-lokal/main/screenshot1.png)
+![Halaman Login](https://raw.githubusercontent.com/Julius010702/web-jasa-lokal/main/screenshot2.png)
+![Dashboard](https://raw.githubusercontent.com/Julius010702/web-jasa-lokal/main/screenshot3.png)
+
+## 📞 Kontak
+
+👤 Julius  
+📧 Email: julius.dev@example.com  
+💼 LinkedIn: [linkedin.com/in/julius010702](https://linkedin.com/in/julius010702)  
+🐙 GitHub: [github.com/Julius010702](https://github.com/Julius010702)
+
